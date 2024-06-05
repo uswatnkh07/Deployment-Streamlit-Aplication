@@ -16,7 +16,7 @@ st.set_page_config(
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.write("""
-Capstone Product Digital Uswatun Khasanah - 2024
+Capstone Digital Product By Uswatun Khasanah - 2024
 """)
 
 ######################################### Sidebar untuk navigasi #########################################
