@@ -8,10 +8,15 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import altair as alt
 
+st.set_page_config(
+    page_title="Prediksi Kategori Rumah",
+    page_icon="🏠",
+)
+
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.write("""
-Capstone Product Digital Kelompok 2 - 2024
+Capstone Product Digital Uswatun Khasanah - 2024
 """)
 
 ######################################### Sidebar untuk navigasi #########################################
